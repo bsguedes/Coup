@@ -1,0 +1,5 @@
+C:\Users\bruno.guedes\Dropbox\Bot wars\Coup\CoupCore\bin\Debug\CoupCore.dll
+C:\Users\bruno.guedes\Dropbox\Bot wars\Coup\CoupCore\bin\Debug\CoupCore.pdb
+C:\Users\bruno.guedes\Dropbox\Bot wars\Coup\CoupCore\obj\Debug\CoupCore.dll
+C:\Users\bruno.guedes\Dropbox\Bot wars\Coup\CoupCore\obj\Debug\CoupCore.pdb
+C:\Users\bruno.guedes\Dropbox\Bot wars\Coup\CoupCore\obj\Debug\CoupCore.csprojResolveAssemblyReference.cache

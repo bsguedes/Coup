@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoupUI", "Coup\CoupUI.csproj", "{A6C9B5EF-1374-4B6F-89F0-F13010251921}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyBot", "EasyBot\EasyBot.csproj", "{5E69D544-BDC7-42BA-8EC1-55AE8E8AAD84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoupCore", "CoupCore\CoupCore.csproj", "{DC2A11DA-9551-413A-8545-F946F4153E47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6C9B5EF-1374-4B6F-89F0-F13010251921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C9B5EF-1374-4B6F-89F0-F13010251921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C9B5EF-1374-4B6F-89F0-F13010251921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C9B5EF-1374-4B6F-89F0-F13010251921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E69D544-BDC7-42BA-8EC1-55AE8E8AAD84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E69D544-BDC7-42BA-8EC1-55AE8E8AAD84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E69D544-BDC7-42BA-8EC1-55AE8E8AAD84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E69D544-BDC7-42BA-8EC1-55AE8E8AAD84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC2A11DA-9551-413A-8545-F946F4153E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2A11DA-9551-413A-8545-F946F4153E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2A11DA-9551-413A-8545-F946F4153E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2A11DA-9551-413A-8545-F946F4153E47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

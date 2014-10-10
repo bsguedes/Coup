@@ -1,0 +1,7 @@
+C:\Users\bruno.guedes\Dropbox\Bot wars\Coup\EasyBot\obj\Debug\EasyBot.csprojResolveAssemblyReference.cache
+C:\Users\bruno.guedes\Dropbox\Bot wars\Coup\EasyBot\bin\Debug\EasyBot.dll
+C:\Users\bruno.guedes\Dropbox\Bot wars\Coup\EasyBot\bin\Debug\EasyBot.pdb
+C:\Users\bruno.guedes\Dropbox\Bot wars\Coup\EasyBot\bin\Debug\CoupCore.dll
+C:\Users\bruno.guedes\Dropbox\Bot wars\Coup\EasyBot\bin\Debug\CoupCore.pdb
+C:\Users\bruno.guedes\Dropbox\Bot wars\Coup\EasyBot\obj\Debug\EasyBot.dll
+C:\Users\bruno.guedes\Dropbox\Bot wars\Coup\EasyBot\obj\Debug\EasyBot.pdb
